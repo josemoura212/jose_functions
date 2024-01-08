@@ -2,7 +2,14 @@
 name = "jose_functions"
 version = "0.1.0"
 edition = "2021"
+authors = ["José Augusto <josemoura212@gmail.com>"]
+description = "Biblioteca de testes"
+homepage = "https://mangatrix.b4a.app"
+repository = "https://mangatrix.b4a.app"
+documentation = "https://mangatrix.b4a.app"
+license = "MIT"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+keywords = ["mangatrix","mangas"]
+categories = ["functions"]
 
 [dependencies]
